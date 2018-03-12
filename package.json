@@ -1,0 +1,29 @@
+{
+  "name": "node-opensource-project",
+  "version": "1.0.0",
+  "description": "Work done on http://opensourceforu.com/2016/10/build-website-using-bootstrap-express-js/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/Node-Opensource-Project.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "express",
+    "bootstrap"
+  ],
+  "author": "Dave Kanter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydot/Node-Opensource-Project/issues"
+  },
+  "homepage": "https://github.com/raydot/Node-Opensource-Project#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}
